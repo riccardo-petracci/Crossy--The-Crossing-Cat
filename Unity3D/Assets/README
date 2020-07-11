@@ -1,0 +1,15 @@
+All'interno di questa cartella "Assets" (attività) possiamo trovare tutto ciò che è stato utilizzato per il progetto. 
+
+Tutto ciò che non è contenuto all'interno di una cartella sono i modelli 3D utilizzati.
+
+All'interno della cartella "BGAudio" sono presenti le tracce audio utilizzate per il background della musica di gioco.
+
+All'interno della cartella "Materials" sono presenti tutti i materiali utilizzati per colorare gli oggetti di gioco.
+
+All'interno della cartella "Prefabs" sono presenti tutti i prefabbricati che compongono il videogioco.
+
+All'interno della cartella "Scenes" sono presenti le 3 scene create per il funzionamento del videogioco: il "Launcher" che contiene
+un GameObject con uno script adibito all'esecuzione del videogioco, "MenuPrincipale" è la scena che si occupa del menù mentre "ScenaDiGioco" è
+la scena dove si trovano il personaggio e i vari ostacoli con tutte i livelli.
+
+All'interno della cartella "Script" sono presenti tutti gli script utilizzati per il videogioco e scritti con l'editor VisualStudio.
